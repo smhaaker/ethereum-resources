@@ -8,6 +8,9 @@
 
 ### News
 
+##### PodCasts
+* [The BitCoin Podcast Network](https://thebitcoinpodcast.com/)
+
 ### Tutorials
 * [CryptoZombies](https://cryptozombies.io/) - Hands on Development Tutorial
 * [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/) - 
