@@ -21,6 +21,7 @@ Feel free to contribute
 ##### Hands On
 * [CryptoZombies](https://cryptozombies.io/) - Hands on Development Tutorial
 * [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/) -
+* [Learn Solidity in Minutes](https://learnxinyminutes.com/docs/solidity/) -
 
 ##### Guides
 * [Getting Started with Ganache](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) - Ganache Guide Including how to Connect to Wallets
