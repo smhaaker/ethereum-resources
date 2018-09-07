@@ -26,6 +26,9 @@ Feel free to contribute
 ##### Guides
 * [Getting Started with Ganache](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) - Ganache Guide Including how to Connect to Wallets
 
+##### Videos
+* [Embark 3.1 Walkthrough](https://www.youtube.com/watch?v=u2crA96P_uI) - User Guide on [Status Embark](https://embark.status.im/)
+
 ### Tools
 * [Remix](https://remix.ethereum.org) - In Browser Solidity IDE
 * [Truffle Framework](https://truffleframework.com) - Smart Contract Tools and Guides
@@ -33,6 +36,7 @@ Feel free to contribute
 * [Ethtective](https://ethtective.com/) -
 * [Read The Docs Ethereum](http://www.ethdocs.org) -
 * [Read The Docs Solidity](https://solidity.readthedocs.io) -
+* [Status Embark](https://embark.status.im/) -
 
 ##### Wallets
 * [My Ether Wallet](https://www.myetherwallet.com/) -
