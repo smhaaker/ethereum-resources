@@ -1,6 +1,7 @@
 # Ethereum Resources
 
-#### General guides / tutorials / links for ethereum development
+General guides / tutorials / links for ethereum development
+Feel free to contribute
 
 ### Background
 
