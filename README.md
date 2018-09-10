@@ -5,10 +5,10 @@ General guides / tutorials / links for ethereum development
 Feel free to contribute
 
 ## Index
-* [Background](#Background)
-* [Intro](#Intro)
+* [Background](#background)
+* [Intro](#intro)
 
-* [Useful](#Useful)
+* [Useful](#useful)
 ### Background
 
 ### Intro
