@@ -54,7 +54,7 @@ Feel free to contribute
 * [Read The Docs Solidity](https://solidity.readthedocs.io) -
 * [Status Embark](https://embark.status.im/) -
 * [Zeppelin OS](https://blog.zeppelinos.org/) - Build and Manage Smart Contracts / Upgradeable Contracts
-* [https://github.com/LimeChain/etherlime](https://github.com/LimeChain/etherlime) - Alternative to Web3
+* [EtherLime](https://github.com/LimeChain/etherlime) - Alternative to Web3
 
 #### Wallets
 * [My Ether Wallet](https://www.myetherwallet.com/) -
