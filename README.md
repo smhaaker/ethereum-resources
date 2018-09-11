@@ -6,9 +6,17 @@ Feel free to contribute
 
 ## Index
 * [Background](#background)
-  * [Articles](#articles)
 * [Intro](#intro)
-
+  * [Articles](#articles)
+* [News](#news)
+  * [Podcasts](#podcasts)
+* [Tutorials](#tutorials)
+  * [Hands On](#hands-on)
+  * [Guides](#guides)
+  * [Videos](#videos)
+* [Tools](#tools)
+  * [Wallets](#wallets)
+  * [Browsers](#browsers)
 * [Useful](#useful)
 ## Background
 
