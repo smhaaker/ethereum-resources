@@ -39,6 +39,7 @@ Feel free to contribute
 * [Learn Solidity in Minutes](https://learnxinyminutes.com/docs/solidity/) -
 
 #### Guides
+* [Deconstructing a Solidity Contract](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737) -
 * [Getting Started with Ganache](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) - Ganache Guide Including how to Connect to Wallets
 
 #### Videos
@@ -52,6 +53,8 @@ Feel free to contribute
 * [Read The Docs Ethereum](http://www.ethdocs.org) -
 * [Read The Docs Solidity](https://solidity.readthedocs.io) -
 * [Status Embark](https://embark.status.im/) -
+* [Zeppelin OS](https://blog.zeppelinos.org/) - Build and Manage Smart Contracts / Upgradeable Contracts
+* [https://github.com/LimeChain/etherlime](https://github.com/LimeChain/etherlime) - Alternative to Web3
 
 #### Wallets
 * [My Ether Wallet](https://www.myetherwallet.com/) -
