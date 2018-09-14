@@ -35,6 +35,7 @@ Feel free to contribute
 
 #### Hands On
 * [CryptoZombies](https://cryptozombies.io/) - Hands on Development Tutorial
+* [Space Doggos](https://www.bitdegree.org/courses/learn-solidity-space-doggos/) - Similar to CryptoZombies
 * [The Ethernaut by Zeppelin](https://ethernaut.zeppelin.solutions/) -
 * [Learn Solidity in Minutes](https://learnxinyminutes.com/docs/solidity/) -
 
