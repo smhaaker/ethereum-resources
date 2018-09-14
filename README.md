@@ -27,6 +27,7 @@ Feel free to contribute
 * [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 
 ## News
+* [Week in Ethereum News](http://www.weekinethereum.com/)
 
 ##### Podcasts
 * [The BitCoin Podcast Network](https://thebitcoinpodcast.com/)
@@ -42,6 +43,10 @@ Feel free to contribute
 #### Guides
 * [Deconstructing a Solidity Contract](https://blog.zeppelin.solutions/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737) -
 * [Getting Started with Ganache](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) - Ganache Guide Including how to Connect to Wallets
+* [Interacting With Contracts](https://truffleframework.com/docs/truffle/getting-started/interacting-with-your-contracts) - Truffle Instructions on how to Interact With Deployed Contracts
+
+##### Tokens
+* [ERC721 Walkthrough](https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c)
 
 #### Videos
 * [Embark 3.1 Walkthrough](https://www.youtube.com/watch?v=u2crA96P_uI) - User Guide on [Status Embark](https://embark.status.im/)
@@ -68,3 +73,6 @@ Feel free to contribute
 * []()
 
 ## Useful
+
+#### Other Resources
+* [app.co](https://app.co/) - List of Decentralized Apps
