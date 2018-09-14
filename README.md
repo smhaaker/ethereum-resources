@@ -60,6 +60,10 @@ Feel free to contribute
 * [Zeppelin OS](https://blog.zeppelinos.org/) - Build and Manage Smart Contracts / Upgradeable Contracts
 * [EtherLime](https://github.com/LimeChain/etherlime) - Alternative to Web3
 
+#### Chains
+* [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Single Node Proof of Authority Docker for Testing
+* [Ganache](https://truffleframework.com/ganache) - One Click Blockchain
+
 #### Documentation
 * [Read The Docs Ethereum](http://www.ethdocs.org) -
 * [Read The Docs Solidity](https://solidity.readthedocs.io) -
