@@ -56,11 +56,13 @@ Feel free to contribute
 * [Truffle Framework](https://truffleframework.com) - Smart Contract Tools and Guides
 * [Etherscan](https://etherscan.io/) - Ethereum Blockchain Explorer
 * [Ethtective](https://ethtective.com/) -
-* [Read The Docs Ethereum](http://www.ethdocs.org) -
-* [Read The Docs Solidity](https://solidity.readthedocs.io) -
 * [Status Embark](https://embark.status.im/) -
 * [Zeppelin OS](https://blog.zeppelinos.org/) - Build and Manage Smart Contracts / Upgradeable Contracts
 * [EtherLime](https://github.com/LimeChain/etherlime) - Alternative to Web3
+
+#### Documentation
+* [Read The Docs Ethereum](http://www.ethdocs.org) -
+* [Read The Docs Solidity](https://solidity.readthedocs.io) -
 
 #### Wallets
 * [My Ether Wallet](https://www.myetherwallet.com/) -
