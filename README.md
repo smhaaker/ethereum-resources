@@ -45,6 +45,7 @@ Feel free to contribute
 * [Getting Started with Ganache](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) - Ganache Guide Including how to Connect to Wallets
 * [Interacting With Contracts](https://truffleframework.com/docs/truffle/getting-started/interacting-with-your-contracts) - Truffle Instructions on how to Interact With Deployed Contracts
 * [The Ultimate ENS and ĐApp Tutorial](https://medium.com/tenzorum-project/the-ultimate-ens-and-%C4%91app-tutorial-a4f2ede94b08) - ENS tutorial
+* [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc) -
 
 ##### Tokens
 * [ERC721 Walkthrough](https://medium.com/blockchannel/walking-through-the-erc721-full-implementation-72ad72735f3c)
@@ -84,3 +85,10 @@ Feel free to contribute
 
 #### Other Resources
 * [app.co](https://app.co/) - List of Decentralized Apps
+
+#### Misc / Unsorted
+* [State  Channels](https://medium.com/spankchain/a-state-channels-adventure-with-counterfactual-rick-part-1-ce68e16252ea) -
+* [ERC-948](https://media.consensys.net/subscription-services-on-the-blockchain-erc-948-6ef64b083a36) - Subscription Services
+* [Oraclize](https://ethereumdev.io/getting-data-internet-oraclize/) - Getting data from the internet with Oraclize
+* [Oracle Guide](https://kndrck.co/posts/ethereum_oracles_a_simple_guide/) - Oracles in Ethereum - A Simple Guide
+* [Smart Contract Attacks](https://hackernoon.com/smart-contract-attacks-part-1-3-attacks-we-should-all-learn-from-the-dao-909ae4483f0a) - Smart Contract Attacks [Part 1] - 3 Attacks We Should All Learn From The DAO
